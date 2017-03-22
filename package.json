@@ -1,0 +1,15 @@
+{
+  "name": "webpack-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run" :"webpack-dev-server --progress --colors --devtool sourcemap "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^1.0.1"
+  }
+}
