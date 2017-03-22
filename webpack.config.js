@@ -8,7 +8,7 @@ module.exports = {
 	},
 	output:{
 		path:'./out/',
-		publicPath:'http://localhost:8080/out/',
+		publicPath:'./out/',
 		filename:'[name].js'
 	},
 	module:{
